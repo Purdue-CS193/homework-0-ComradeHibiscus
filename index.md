@@ -1,4 +1,4 @@
-## Mark Antonov's First CS193 Homework
+# Mark Antonov's First CS193 Homework
 
 ```markdown
 Syntax highlighted code block
