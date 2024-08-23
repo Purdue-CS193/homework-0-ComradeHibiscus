@@ -7,3 +7,4 @@
 - Terminal stuff is cool
 - I will finally unleash LaTeX in this class
 - TA's are chill
+- No (-) grades, so less grade worries
