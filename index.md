@@ -3,5 +3,7 @@
 ### My favorite things about CS193::
 - There are no exams :)
 - Homework is 70% of the grade
-- I will learn how to become a vim master
+- CS 182 sneak peak (syllabus said so) !!!!!!?1??!!?!?!?
 - Terminal stuff is cool
+- I will finally unleash LaTeX in this class
+- TA's are chill
